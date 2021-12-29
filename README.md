@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+Ejercicio 4
+Para estos ejercicios deberás realizar los mismos que en la fase 1 pero utilizando ReactJS.
+
+
+Ejercicio 4. Añade funcionalidad a los campos de ordenación con los datos de ejemplo.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
